@@ -1,0 +1,54 @@
+body{background-color: lightsteelblue;
+color: rgb(0, 0, 0);
+}
+
+.title-el-universo{
+    font-size: 70px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+img{
+    width: 1400px;
+}
+
+div{
+    font-family: 'VT323', monospace;
+}
+
+.title-Astrobiología{
+    font-size: 30px;
+    color: rgb(2, 2, 2);
+}
+
+.title-estrellas{
+    font-size: 30px;
+}
+
+.title-origen{
+    font-size: 30px;
+}
+
+.title-Cosmología{
+    font-size: 30px;
+}
+.title-Big-Bang{
+    font-size:30px ;
+}
+.astro{
+    width: 500px;
+}
+
+.universo{
+    width: 500px;
+}
+.estrella{
+    width: 500px;
+}
+
+.cosmología{
+    width: 500px;
+}
+.bigbang{
+    width: 500px;
+}
